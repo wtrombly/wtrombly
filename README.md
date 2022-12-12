@@ -43,7 +43,3 @@ C# <code><img height="20" src="https://github.com/wtrombly/wtrombly/blob/main/CS
 <br />
 
 <br />
-
-### - Languages and Tools...
-
-Coming soon...
