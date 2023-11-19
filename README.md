@@ -26,7 +26,8 @@
 #### - 🥀 Learning JAVA  <code><img height="20" src="https://github.com/wtrombly/wtrombly/blob/main/Java-tutorials.jpg"></code>, 
 R <code> <img height="20" width="16" src="https://github.com/wtrombly/wtrombly/blob/main/RStudio-Ball.png"> </code> & 
 Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
-C# <code><img height="20" src="https://github.com/wtrombly/wtrombly/blob/main/CSharp1200x600wa.png"></code>.
+C# <code><img height="20" src="https://github.com/wtrombly/wtrombly/blob/main/CSharp1200x600wa.png"></code>.\
+Python
 
 <br />
 
