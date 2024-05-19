@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wtrombly
-- 👀 I’m interested in creating R shiny web applications, angular and react web applications, and delivering solutions requiring short development times to my clients.
+- 👀 I’m interested in creating .NET serverless functions,react web applications, and delivering solutions requiring short development times to my clients.
 - 🌱 I’m currently working on a real estate data analysis tool for real estate professionals.
 - 💞️ I’m looking to collaborate on your projects.
 - 📫 You can reach me at willtrombly@gmail.com
